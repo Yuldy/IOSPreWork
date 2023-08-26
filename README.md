@@ -19,8 +19,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='![](https://github.com/Yuldy/IOSPreWork/blob/main/Kapture%202023-08-25%20at%2017.35.22.gif)
 ' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-If link doesn't work try: https://github.com/Yuldy/IOSPreWork/blob/main/Kapture%202023-08-25%20at%2017.35.22.gif (copy and paste)
 
+Link: https://github.com/Yuldy/IOSPreWork/blob/main/Kapture%202023-08-25%20at%2017.35.22.gif
 GIF created with Kap  
 
 ## App Brainstorming (Step 4)
